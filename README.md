@@ -20,3 +20,10 @@ Natija : 126
 usr$> python num2text.py "olti million uch yuz ming sakkiz yuz to'qson to'qqiz"
 Natija :  6300899
 ```
+
+
+## Hissa qo'shish
+
+- Kodni har qanday optimizatsiya qilingan varianti pull requestdan master branchga o'tkaziladi, github contribution xohlaganlar uchun kod ochiq.
+- Sodda skriptlar orasiga yangicha uslub qo'shish niyati borlar telegramdan aloqa chiqishlari yoki to'g'rida to'g'ri github discussion bo'limidan yozishlari mumkin.
+- Mavjud kodni cheksiz miqdorda raqamlarni hisoblay oladigan dajaga keltirishni uddalay oladiganlar bo'lsa pull request qilingandan keyin tekshirib proyekt merge qilinadi.
