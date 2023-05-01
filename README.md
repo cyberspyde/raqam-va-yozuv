@@ -1,4 +1,4 @@
- [![Mailing list : test](http://img.shields.io/badge/Email-gray.svg?style=for-the-badge&logo=gmail)](mailto:cyberspyde@gmail.com) [![Mailing list : test](http://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram)](https://t.me/cyberspyde_admin) [![License: CC BY-NC 4.0](https://img.shields.io/badge/LICENSE-mit-grey.svg?style=for-the-badge)](https://github.com/cyberspyde/raqam-va-yozuv/LICENSE)
+ [![Mailing list : test](http://img.shields.io/badge/Email-gray.svg?style=for-the-badge&logo=gmail)](mailto:cyberspyde@gmail.com) [![Mailing list : test](http://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram)](https://t.me/cyberspyde_admin) [![License: CC BY-NC 4.0](https://img.shields.io/badge/LICENSE-mit-grey.svg?style=for-the-badge)](https://github.com/cyberspyde/raqam-va-yozuv/blob/main/LICENSE)
 
 ## Raqam va Yozuv - Ikki tomonlama konversiya
 
