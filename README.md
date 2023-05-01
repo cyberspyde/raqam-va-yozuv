@@ -13,4 +13,10 @@ Ikki tomonlama, raqamni yozuv ko'rinishda va yozuvni raqam ko'rinishda tasvirlab
 
 ## Ishlatishga misollar
 
+```
+usr$> python num2text.py "bir yuz yigirma olti"
+Natija : 126
 
+usr$> python num2text.py "olti million uch yuz ming sakkiz yuz to'qson to'qqiz"
+Natija :  6300899
+```
