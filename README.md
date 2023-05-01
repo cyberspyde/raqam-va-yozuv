@@ -7,3 +7,10 @@ Ikki tomonlama, raqamni yozuv ko'rinishda va yozuvni raqam ko'rinishda tasvirlab
 ### Imkoniyatlari
 
 - Harflar bilan ifodalangan raqamlarni, raqam yoki son ko'rinishiga o'girish va teskarisi
+- 0 dan boshlab Milliard raqamlarigacha bo'lgan yozuvli raqam va sonlarni tezlik bilan integer holatida o'girish
+
+
+
+## Ishlatishga misollar
+
+
