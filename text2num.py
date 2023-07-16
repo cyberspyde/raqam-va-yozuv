@@ -93,13 +93,11 @@ def text2num(query):
         if query in exact_queries:
             result = exact_keys[exact_queries.index(query)]
         
-        print("Natija : ", result)
-
+        #print("Natija : ", result)
+        return result
     except IndexError as e:
         print("Indeksda xatolik yuz berdi. ", e)
     except Exception as argErr:
         print(argErr)
     except KeyError as keyErr:
         print("Bunday raqam mavjud emas ", keyErr)
-
-text2num(args.text)
